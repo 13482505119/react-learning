@@ -1,0 +1,27 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "react learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13482505119/react-learning.git"
+  },
+  "keywords": [
+    "react",
+    "learning"
+  ],
+  "author": "liu song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13482505119/react-learning/issues"
+  },
+  "homepage": "https://github.com/13482505119/react-learning#readme",
+  "devDependencies": {
+    "bootstrap": "^4.2.1",
+    "react": "^16.7.0"
+  }
+}

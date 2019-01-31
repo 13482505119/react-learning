@@ -1,0 +1,6 @@
+npm install -g grunt-cli
+
+npm init
+
+npm install --save-dev react bootstrap
+
